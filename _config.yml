@@ -10,5 +10,5 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: Matthew_UMB_ML
 github_username:  MatthewAlmeida
 
-theme: minima
+theme: jekyll-theme-minimal
 show_excerpts: true # set to false to remove excerpts on the homepage
